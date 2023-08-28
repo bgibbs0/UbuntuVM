@@ -10,10 +10,15 @@ VMware Workstation - A type 2 hypervisor developed by VMware that allows for the
 
 <h2>Glossary</h2>
 ISO file - An exact copy of an entire optical disk such as a CD, DVD, or Blu-ray archived into a single file. </br>
+</br>
 Linux - A family of open-source Unix-like operating systems based on the Linux kernel. </br>
+</br>
 Network Address Translation - A method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. </br>
+</br>
 Open-Source - Any program whose source code is made available for use or modification as users or other developers see fit. </br>
+</br>
 Type 2 Hypervisor - A Type 2 hypervisor, also called a hosted hypervisor, is a virtual machine (VM) manager that is installed as a software application on an existing operating. </br>
+</br>
 Virtual Machine - A compute resource that uses software instead of a physical computer to run programs and deploy apps. </br>
 
 
