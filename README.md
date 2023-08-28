@@ -6,6 +6,7 @@ In this lab, I will be setting up a Ubuntu Linux virutal machine using VMware Wo
 
 <h2>Utilities Used</h2>
 Ubuntu - Linux distribution based on Debian and composed mostly of free and open-source software. </br>
+</br>
 VMware Workstation - A type 2 hypervisor developed by VMware that allows for the creation of virtual machines. 
 
 <h2>Glossary</h2>
